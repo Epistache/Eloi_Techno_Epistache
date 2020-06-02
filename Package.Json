@@ -1,6 +1,6 @@
 {
     "name":           "be.Epistache.TechnoTest",                              
-     "displayName":    "Test pour technocite",                        
+     "displayName":    "RoomLionel",                        
      "version":        "0.0.1",                         
      "unity":          "2019.2",                        
      "description":    "This package est pour tester pour le cours de Eloi",                         
@@ -10,7 +10,7 @@
       "samples": [
     {
       "displayName": "Package pour la formation.",
-      "description": "package nul, j'ai plus rien à dire.",
+      "description": "package nul, j'ai plus rien à dire. Mais ce sera surement une pièce",
       "path": "Samples/"
     }
   ],
