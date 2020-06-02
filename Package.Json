@@ -4,9 +4,7 @@
      "version":        "0.0.1",                         
      "unity":          "2019.2",                        
      "description":    "This package est pour tester pour le cours de Eloi",                         
-     "keywords":       ["Script","Tool"],                       
-     "dependencies":{  },     
-     "relatedPackages":{  }, 
+     "keywords":       ["Script","Tool"],                           
       "samples": [
     {
       "displayName": "Package pour la formation.",
