@@ -1,0 +1,23 @@
+{
+    "name":           "be.Epistache.TechnoTest",                              
+     "displayName":    "Test pour technocite",                        
+     "version":        "0.0.1",                         
+     "unity":          "2019.2",                        
+     "description":    "This package est pour tester pour le cours de Eloi",                         
+     "keywords":       ["Script","Tool"],                       
+     "dependencies":{  },     
+     "relatedPackages":{  }, 
+      "samples": [
+    {
+      "displayName": "Package pour la formation.",
+      "description": "package nul, j'ai plus rien à dire.",
+      "path": "Samples/"
+    }
+  ],
+     "author" : {
+           "name":"Epistache",
+           "mail":"lionelgodineau1@gmail.com",
+           "url":"https://youtu.be/5XRiGi1eofQ"
+       },    
+           "category": "Script"                   
+   } 
